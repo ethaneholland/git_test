@@ -1,0 +1,1 @@
+This is ethan's first git project!
